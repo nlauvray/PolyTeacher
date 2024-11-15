@@ -1,1 +1,3 @@
 # PolyTeacher
+
+docker-compose up
